@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "kotlin": "^1.3.0",
+    "react": "^16.7.0-alpha.0",
+    "react-dom": "^16.7.0-alpha.0",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "scripts": {
+    "run": "webpack --watch --mode=development"
+  }
+}
